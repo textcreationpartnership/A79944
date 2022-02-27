@@ -1,0 +1,347 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Clergyes bill of complaint, or, Submissive suite of one in the behalf of all the orthodox and great sorrow-suffering church-men throughout England. Exhibited to the most honourable houses of Parliament, against Brownists, Anabaptists and other schismaticks, shewing amongst other things, how the materiall churches on earth and our reverend divines are made despicable through their misdemeanors. Besides necessary annotations in the end, whereunto the reader is respectively referred by certain alphabeticall letters, from A to T included in severall lines to this work.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79944</idno>
+            <idno type="STC">Wing C4644</idno>
+            <idno type="STC">Thomason E84_44</idno>
+            <idno type="STC">ESTC R11008</idno>
+            <idno type="EEBO-CITATION">99858918</idno>
+            <idno type="PROQUEST">99858918</idno>
+            <idno type="VID">155662</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79944)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155662)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E84[44])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Clergyes bill of complaint, or, Submissive suite of one in the behalf of all the orthodox and great sorrow-suffering church-men throughout England. Exhibited to the most honourable houses of Parliament, against Brownists, Anabaptists and other schismaticks, shewing amongst other things, how the materiall churches on earth and our reverend divines are made despicable through their misdemeanors. Besides necessary annotations in the end, whereunto the reader is respectively referred by certain alphabeticall letters, from A to T included in severall lines to this work.</title>
+               </titleStmt>
+               <extent>[2], 6, [8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Leonard Lichfield Printer to the Vniversitie,</publisher>
+                  <pubPlace>At Oxford [i.e. London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint is false. "This is a poorly printed London piece, possibly printed for Leonard Lichfield, as the imprint states."  Madan 1180.</note>
+                  <note>Annotation on Thomason copy: [illegible line]; "Jan 12 1642"; "Jan".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+               <term>Anabaptists --  England --  Early works to 1800.</term>
+               <term>Brownists --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155662:1" rendition="simple:additions"/>
+            <p>THE CLERGYES BILL of COMPLAINT, OR Submiſsive ſuite of one in the behalf of all the Orthodox and great Sorrow-ſuffering Church-men throughout <hi>England.</hi>
+            </p>
+            <p>
+               <hi>EXHIBITED To the moſt honourable Houſes of Parliament,</hi> Againſt Browniſts, Anabaptiſts, and other Schiſmaticks, ſhewing amongſt other things, <hi>How the materiall Churches on earth and our Reverend Divines are made deſpicable through their miſdemeanors.</hi>
+            </p>
+            <p>
+               <hi>BESIDES</hi> Neceſſary Annotations in the end, whereunto the Reader is reſpectively referred by certain Alphabeticall Letters, from <hi>A</hi> to <hi>T</hi> included in ſeverall lines to this work.</p>
+            <p>
+               <hi>AT OXFORD,</hi> Printed for LEONARD LICHFIELD Printer to the Vniverſitie, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155662:2"/>
+            <pb n="1" facs="tcp:155662:2"/>
+            <div type="tract">
+               <head>The Clergies Complaint.</head>
+               <p>
+                  <seg rend="decorInit">I</seg> Am not ignorant, what a numerous and al<g ref="char:EOLhyphen"/>moſt infinite iſſue of baſtard Books daily comes to light: Even the very ſtreets of the moſt populous <hi>Metropolis</hi> or Mo<g ref="char:EOLhyphen"/>ther-City, being ſpread with petty Pam<g ref="char:EOLhyphen"/>phlets not worth a rotten threed, of no value: Yea, this preſent day ſeemeth to procreate more bookes then Babes: the bookes (it skils not what they be) b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing begotten even by Eunuches, and brought forth by the Ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ren; Certainly<g ref="char:punc">▪</g> if the late off-ſprings of the Preſſe, which this over-ſcribling Age hath extru<g ref="char:EOLhyphen"/>ded, any one would number, <hi>Arithmetick</hi> could hard<g ref="char:EOLhyphen"/>ly give him ſatisfaction. What need many words? A greater number of bookes hath been printed at <hi>London</hi> within this yeer and halfe paſt, then at either of the Vni<g ref="char:EOLhyphen"/>verſities from the very Cradle, or invention of the Ty<g ref="char:EOLhyphen"/>pographicall Art. Inſomuch as that complaint of <hi>Fami<g ref="char:EOLhyphen"/>anus
+<pb n="2" facs="tcp:155662:3"/>Strada</hi> touching the prodigious plenty of bookes, is true. <hi>Obruimur libris, Oculi legendo, manus volitando dolent;</hi> that is, We are overcloyed with bookes, our eyes are pain'd with reading, and our hands with turn<g ref="char:EOLhyphen"/>ing over leaves. <hi>(a)</hi> O egregious future ſpoyles for the Moths and Wormes, unleſſe the moſt devoted lovers of the Nicotian Deity do in the interim ſacrifice them in flames. Hearken thou Tobacco-ſucker, <hi>(b)</hi> that ſpo<g ref="char:EOLhyphen"/>keſt nothing but fumes, and as the Virgilian Laws,
+<q>
+                     <l>Faucibus ingentem fumum, mirabile dictu</l>
+                     <l>Evomis, involvis<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> domum caligine caeca</l>
+                     <l>Proſpectum eripiens oculis.</l>
+                  </q>
+               </p>
+               <p>That is,
+<q>
+                     <l>(b) Huge fume doest vomit, wondrous to be told,</l>
+                     <l>And with blinde darkneſſe doest thy houſe involve</l>
+                     <l>That none can once diſcerne it.</l>
+                  </q>
+               </p>
+               <p>Behold enought, and too many ſheets that may laſt ever<g ref="char:EOLhyphen"/>laſtingly to light thy contagious herbe of many appella<g ref="char:EOLhyphen"/>tions. <hi>(c)</hi> Sheets worthy to be burned in terreſtiall flames, and the greateſt part of their Authors (being the inventors of ſo many falſe and ſcandalous Relations) in infernall fire.</p>
+               <p>Yet, O you reverend Churchmen, pardon me, and you endued with a ſoule divine, ſo many, as not onely with open mouth, but with publike pen (according to the Talents to you committed by the Almighty) have ſtoutly fought againſt the monſtrous Hereticks daily ſpringing up, eſpecially <hi>Browniſts,</hi> the moſt deepely
+<pb n="3" facs="tcp:155662:3"/>ſworne enemies of our Church; your poſterity, J dare ſay, comming long after you, ſhall for your vigilancie repay unto your memory moſt ample thankfulneſſe. I only point at lurking Knaves, and ſuch kinde of Raſcals of no reputation, riſen out of durt and dung, whoſe furi<g ref="char:EOLhyphen"/>ous Pen defiles the ſacred Orders and pious Ordinances with Cartloads of Contumelies. Theſe things, If any one do dreame or ſurmiſe that J have ſlanderouſly utte<g ref="char:EOLhyphen"/>red, ſurely he himſelfe is a notable ſlanderer, and more blinde then a Mole, that denies thoſe things which are well knowne to barbarous and bleere-eyed men, and moſt notoriouſly witneſſed by many examples. I call to witneſſe the neere numberleſſe Pamphlets of men at the higheſt, but halfe learned. <hi>(d)</hi> For what do books of theſe dayes prefer, but an incredible multitude of injuries and reproaches? Can any wicked, execrable, inexpiable thing be deviſed, that ſuch, ſo many, and immane ſwarmes of new bookes may not containe? Who now adayes betake themſelves to write, that think not all liberty of malediction lyes open to their hand?</p>
+               <p>
+                  <hi>(e)</hi> Firſt of all the Prelats of the Church, chi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe Pa<g ref="char:EOLhyphen"/>ſtors of the Chriſtian flock, and ſupreme Rulers of the Sacred Orders, they inculcate and contemne even to loathing, as of the fraternity of, I know not, what <hi>Vto<g ref="char:EOLhyphen"/>pian Antichriſt,</hi> and that even by that name, becauſe they bee ſetled in the moſt eminent degree of the Church: and to the end they may colourably deceive Idiots and <hi>(f)</hi> Globe head or Browniſticall-men. Texts out of the holy Scriptures they doe infinitely multi<g ref="char:EOLhyphen"/>ply. That delight and Darling of the Muſes properly ſaid,
+<pb n="4" facs="tcp:155662:4"/>
+                  <q>
+                     <l>Et latro &amp; cantus praecing itur enſe viator;</l>
+                     <l>Scripturam Haeretici Catholici<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> legunt.</l>
+                  </q>
+that is,
+<q>
+                     <l>The theife and wary traveller goes guarded with a ſword,</l>
+                     <l>The Heretick and Catholick, both read Gods holy word.</l>
+                  </q>
+               </p>
+               <p>
+                  <hi>(g)</hi> Moreover, our Liturgy, moſt like the formes of the former and purer age, and moſt honoured by us and our Grandfathers many yeares now paſt, with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> poiſoned ſtile and exulcerated heart they continuallie purſue. Ad<g ref="char:EOLhyphen"/>mitt their victorious and overworn Objection. The Li<g ref="char:EOLhyphen"/>turgie of <hi>Engla<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d</hi> (ſay they) is ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>racted o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t of the <hi>Ro<g ref="char:EOLhyphen"/>miſh</hi> Rites <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Popes Maſſes, and therefore to be utter<g ref="char:EOLhyphen"/>lie ſhunned by thoſe that are pure. O fooliſh and mad heads! By like right I will pronounce it altogether un<g ref="char:EOLhyphen"/>lawfull to gather Gold from Dunghills to take pearles out of foule Shel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and precious ſtones out of Toads and Dragons. Others, rather to be derided then confuted, as yet more audaciouſlie do accuſe it in their ſtinging and ſtinking Scribling ſcattered abroad to be full of impietie and (which is hainous to be ut<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ered) horrible blaſphemy <hi>(g)</hi> Yea more the Lords Epitome or Abbreviation of the Goſpell, the Cannon of Chriſtians and the moſt om<g ref="char:EOLhyphen"/>nipotent Prayer (to uſe th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> words of our <hi>German Elias</hi>) now beginnes (I tremble in the rehearſall) to be evill ſpoken of <hi>(h)</hi> But what ſhould thoſe Pies do with this ſweet ſounding ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing? Aſſes (as they ſay) with this An<g ref="char:EOLhyphen"/>gelicall h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>! To conclude, our moſt religious Rites, as Popiſh Refeus and Relicks of Romiſh ſuperſtitions,
+<pb n="5" facs="tcp:155662:4"/>th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y refuſe and abhorre! Surelie in ſo great vanitie of manie which are of the Dregs of the vulgar, who yet do take unto them the honourable name of a Div<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne, it is no wonder, that ſo manie inglorious horrid things, (I will ſay nothing hard<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r) as well from preſſ s as from pulpits, are propounded both to the Eyes and Eares of the foo<g ref="char:EOLhyphen"/>liſh Common people. But let theſe Patrons of unreve<g ref="char:EOLhyphen"/>rendneſſe beware, leſt the ſame be verified of them which the laſt and alſo firſt of the Apoſtles ſaid of fooliſh wiſe men. <hi>Rom.</hi> 1.22. <hi>When they accounted themſelves as wiſe, they became fooliſh.</hi> For truelie I feare leaſt they earneſtlie avoiding the Charybdis of bread worſhip (J had almoſt ſaid Self worſhip) unadviſedlie fall upon the Scylla of contumacie, while they not onlie diſobey, but alſo like Enemies oppoſe themſelves againſt the juſt Commands of their moſt loving and indulgent mother, <hi>(i)</hi>
+               </p>
+               <p>Here I ſay nothing <hi>(k)</hi> of Coblers and How<g ref="char:EOLhyphen"/>iſts and other Shameles Mechanicks, worthie to be chaſtieed rather with a Cudgell then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Quill, who, bla<g ref="char:EOLhyphen"/>ſted with a peſtilent motion, aſcend the pulpit with a ſa<g ref="char:EOLhyphen"/>crilegious boldneſſe (o how great is the Licentiouſneſſe of men!) and there do handle with unwaſhed hands (as the ſaying is) or which is more true, do miſerablie ra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> word of God. If this be not with <hi>Icarus</hi> to ſhe with<g ref="char:EOLhyphen"/>out wings, I know not what that ſaving of <hi>Plantus</hi> means: I do alſo paſſe over the Brethren of ignorance (o what a breeding age is this of ſuch Brethren!) to whom the white Garment, which we call a Surplice, is no leſſe for<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dable then the Coate of a certain Martyr, (his name I now rem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mber not) mbrodered with horrible images of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Spirits. I touch not the Anabaptiſts nor E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thyli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſts
+<pb n="6" facs="tcp:155662:5"/>the plagues of our times, that uſe the beſt meanes they can to extinguiſh all humane learning, and by whoſe jud<g ref="char:EOLhyphen"/>gements, moſt unjuſt, our Vniverſities of <hi>Cambridge</hi> and <hi>Oxford</hi> (the moſt renowned manſions of the muſes) do ſuffer as if they were the Seminaries of Hereſie and the Apple of Contention. Finallie I do not mention the Giant boldneſſe of thoſe that honor the houſe dedicated to Almightie God (and therefore called Royall and Lord<g ref="char:EOLhyphen"/>lie) no more then the Stable of <hi>Augaeus,</hi> and contemne Saint <hi>Ambroſe,</hi> Saint <hi>Auguſtine,</hi> Saint <hi>Ierome, &amp;c.</hi> De<g ref="char:EOLhyphen"/>fenders and Champions for the Standard of the Ortho<g ref="char:EOLhyphen"/>dox Faith, as ſo manie old men overcome with Do<g ref="char:EOLhyphen"/>tage.</p>
+               <p>But leſt anie one more perverſe then others ſhould ſay, what man is this? whence comes he? and when borne? who alone inculcates and reculcates theſe things even to loathing? I call to witneſſe the ſound Doctors of this and the age paſt, of whom, ſome have propagated with life, pen, tongue and bloud, the repurged Religion which we profeſſe. Behold firſt the bleſſed <hi>Cranmer, Ridley, Latimer, &amp;c.</hi> in heaven now triumphing with purple Crownes of Martyrdom: next the moſt abſolute men <hi>Whitgift</hi> Archbiſhop of <hi>Canterbury,</hi> and <hi>Hooker</hi> at loweſt loſt, but of prime note, and others in the dayes of our Engliſh <hi>Deborah,</hi> and <hi>David</hi> numberleſſe: laſtlie, a thouſand preachers of this age, whoſe names J ſpare, moſt worthy of double honour, as well for profound Doctrine as for Sanctimony of life on either part did with one tongue &amp; pen generally affirme the Hierarchie, Liturgy, and our Church Rites to be moſt conſonant and agreeable to that book of God.</p>
+               <p>
+                  <pb facs="tcp:155662:5"/>If therefore any one do compare ſo many Di<g ref="char:EOLhyphen"/>vines of the greater ſort, with the upſtart Smatte<g ref="char:EOLhyphen"/>rers in Divinity of the common flock, ruſhing ra<g ref="char:EOLhyphen"/>ther than entring into the: <hi>Sanctum Sanctorum,</hi> the Church of God; can he beleive that thoſe <hi>(n. o.)</hi> night Owles do more ſharply ſee the truth, than theſe Eagles; Nay rather, what man well in his wits, dares preferre a very few Engliſh <hi>Geneva</hi> Preachers of different minde, though otherwiſe not unlearn'd (and whoſe authority in other things may be ſound) before ſo many heavenly wits of the Columnes or Staples of Chriſts Church? Nevertheleſſe, if they had beene ſomewhat more perverſe than is meet, and more unjuſt than thoſe bleſſed ſouls do think otherwiſe; let them faith<g ref="char:EOLhyphen"/>fully compare the ſtrong <hi>(p)</hi> arguments of thoſe with the weak and ſlender reaſonings of the dim<g ref="char:EOLhyphen"/>ſighted Schiſmaticks. For they not with ſollid and invincible reaſons, but only with ſcoffes, ob<g ref="char:EOLhyphen"/>loquies, calumnies, cavells, and impudent re<g ref="char:EOLhyphen"/>proaches and diſtractions, do ſcurriouſly handle their cauſe, and undeſervedly deſteine with many Criminations and Revilings. Some the beſt (in words <hi>Chryſoſtome,</hi> in deeds <hi>Polycarps</hi>) worthy to be honor'd with all kinde of duties, and maliciouſly traduce their fame, with more than a certain dog<g ref="char:EOLhyphen"/>like rage or madneſſe. <hi>(q)</hi>
+               </p>
+               <p>Yea more, the moſt Reverend Fathers and Do<g ref="char:EOLhyphen"/>ctors of the Church (whom all our Orthodox Divines do reverence with the name of Saint) they vilifie as men unworthy of Sanctfiication; And the materiall Churches being Gods peculiar Hou<g ref="char:EOLhyphen"/>ſes
+<pb facs="tcp:155662:6"/>edified, and ordained for Preaching and Pray<g ref="char:EOLhyphen"/>er, as in <hi>Gen.</hi> 28.13. to 18, <hi>Eſay</hi> 56.7. and <hi>Mat.</hi> 11.13. which by our forefather of bleſſed life, were ſet apart and conſecrated to divine Service, by the names of the holy Evangeliſts, Apoſtles, Martyrs, and other moſt Religious men; they moſt prophanely and irreligiouſly endeavour, not only by ſcandalous ſpeeches, but by moſt abuſive papers, to unſanctifie, or at the leaſt, unſaint, and whom they cannot deny to be bleſſed Saints in in Heaven; will not acknowledge to be worthy of that appellation, ſome of them nicknaming; and opprobriouſly terming (as I have been credi<g ref="char:EOLhyphen"/>bly informed) the Churches dedicated to the ho<g ref="char:EOLhyphen"/>nor of S. <hi>John,</hi> S. <hi>Matthew,</hi> S. <hi>Bartholmew,</hi> S. <hi>Mary,</hi> and S. <hi>Thomas; Jacks</hi> church, <hi>Mats</hi> church, <hi>Bats</hi> church, <hi>Mobs</hi> church, and <hi>Toms</hi> church, hol<g ref="char:EOLhyphen"/>den alſo, or ſeeming to hold themſelves to be ſo juſt and faithfull, that they rather deſerve to be ſainted before others, and all Churches ſo Con<g ref="char:EOLhyphen"/>ſecrated, fit to be utterly demoliſhed, or converted to ware-houſes and barns, or ſuch other prophane uſes. <hi>(r)</hi>
+               </p>
+               <p>O good God, pardon them I humbly and earneſt<g ref="char:EOLhyphen"/>ly deſire, that know not what they write, thinke, or babble: Yet unto thoſe men of deſperate condi<g ref="char:EOLhyphen"/>tion, that under the vaile of zeale and piety, both with a raging Pen, and Stentorean voice, either for the filling of their purſes, or the catching of popular applauſe, have violated thy holy Orders, be thou aſevere Judge and revenger.</p>
+               <p>And you Heroicke Perſonages and Senators,
+<pb facs="tcp:155662:6"/>I being the meaneſt amongſt the Students of ſa<g ref="char:EOLhyphen"/>cred Theologie, with all the reverence in my poore power do beſeech; that with conjoyned ſtrength and aſſociated hearts, you would con<g ref="char:EOLhyphen"/>ſerve the Church of <hi>England,</hi> the moſt beautifull Spouſe of God, amended and defended, aſwell from lightharneſſed Souldiers, fighting not with Thunder, but with Haile thick enough <hi>(ſ)</hi> as eſpecially from her capitall enemies aforeſayd, that would put their Sieth (ahlas) too ſharpe (unleſſe they feared your Thunder due to Church-Robbers) deep enough into the Eccleſiaſticall Harveſt.</p>
+               <p>Heare you Magnanimous Perſons, I moſt hum<g ref="char:EOLhyphen"/>bly entreat; what a Reverend and famous Divine, perfectly well and readily ſpake, of thoſe Arch-hereticks and wicked wretches, whom he knew without and within.</p>
+               <p>They corrupt (ſaith he) the Decrees of faith they break the Bonds of charity, and practiſe both with evill ſpeeches to cur in pieces, and with evill deeds to rend aſunder the ſeamleſſe Coat of Chriſt; that is, our Church, flouriſhing in all-maintaining Peace, under moſt Royall <hi>Charles,</hi> her foſter Father, amongſt ſo many elſewhere, moſt turbulent Tempeſts of Controverſies. The 32 Articles of the Browniſts confeſſion, impiouſly cry out, That either we muſt go out of the Engliſh Synagogue, or periſh; And they doe both write and alſo thinke thoſe things of us their Brethren which being chriſtians
+<pb facs="tcp:155662:7"/>and Engliſh Proteſtants, which neither ſcourge-bearing <hi>Spaniard,</hi> nor miſ-beleiving <hi>Turke,</hi> nor An<g ref="char:EOLhyphen"/>tichriſtian <hi>Pope,</hi> nor any <hi>Jew,</hi> nor <hi>Judas</hi> himſelfe if he were living, ever dream't of, neither barba<g ref="char:EOLhyphen"/>rous <hi>Scythia,</hi> nor the ſavage <hi>Iriſh,</hi> nor fierce <hi>Herca<g ref="char:EOLhyphen"/>nia,</hi> nor monſter-breeding <hi>Affrick,</hi> nor the Sun it ſelfe the Worlds eye, hath beheld, or the earth brought forth any thing more inhumane, than the envy and cruelty of theſe men; hither that bleſ<g ref="char:EOLhyphen"/>ſed man. You therefore, the true Patriarchs of the Engliſh-<hi>Iſrael,</hi> and the moſt excellent Gentry thereof, ſuccor with your benignity the labouring Church, opportunely quench the kindled fire-brands of Sedition, ſuppreſſe the monſtrous opi<g ref="char:EOLhyphen"/>nions now of late riſen; and in a word, the rage of the Clergy ſcourging people and other Schiſ<g ref="char:EOLhyphen"/>maticks, who if they be once permitted to ad<g ref="char:EOLhyphen"/>vance the head, I do divine will become more terrible and cruell, than the very <hi>Iriſh,</hi> yea, than the <hi>Scythian, Anthropophi,</hi> or man-eaters, Tigers; theſe things carefully and ſeriouſly again I beſeech you as heretofore your Anceſtors (whoſe memory be bleſſed) have done with exceeding praiſe. <hi>Cam. Annal. R. El. pag.</hi> 71. and 275.</p>
+               <p>Our moſt bleſſed and Almighty GOD grant from my ſoule I pray) that your courſe right well begun, you may happily conſummate.</p>
+               <q>
+                  <l>This is my Prayer, and not mine alone, <hi>(u)</hi>
+                  </l>
+                  <l>With many others which are joyn'd in one.</l>
+               </q>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div type="notes">
+               <pb facs="tcp:155662:7"/>
+               <head>The Annotations whereunto you are referred by Letters placed in the lines of this precedent work.</head>
+               <p>
+                  <hi>(a)</hi> This yeer hath produced great plenty of Pamphlets, there was almoſt no day, wherein 6. or 8. came not forth. Alluſion to <hi>Plinii. lib.</hi> 1. <hi>Epiſt.</hi> 13. Many in theſe dayes itching with the ſcab of deſire to write, have their braines (as the ſaying is) in their fingers, ſo great and inconſide<g ref="char:EOLhyphen"/>rate is the boldneſſe to put any thing in writing. <hi>D. Will. Hall.</hi>
+               </p>
+               <p>
+                  <q>
+                     <l>(b) Regina Britaina libras ter centum mille quotanis</l>
+                     <l>Expendit, morbos accellerando novos.</l>
+                     <l>Non opus Helleboro, nam quiſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Tobaccon ab aula</l>
+                     <l>Principis, ad caulam pauperis; uſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> bibit</l>
+                     <bibl>Doct. Vaugh. in Orph. Jun.</bibl>
+                  </q>
+engliſhed thus,
+<q>
+                     <l>Great Britane new infirmities to haſt,</l>
+                     <l>Three hundred thouſand pounds doth yearly waſte</l>
+                     <l>Wee need not Hellebore; for (though it ſtinke)</l>
+                     <l>From Court to Cottage all Tobacco drinke.</l>
+                  </q>
+               </p>
+               <p>
+                  <hi>(c.)</hi> An Indian root very well known by daily uſe called <hi>Herba Nicotiana, Medica, Petum;</hi> commonly <hi>Tobacco</hi> and perhaps <hi>Betele</hi> whereof <hi>Plutarche</hi> makes mention in <hi>lib. de facie in orbe Lunae.</hi>
+               </p>
+               <p>But facetiouſly ſaid one,
+<q>
+                     <l>Quod vino madidis detur Tobacco, vocari,</l>
+                     <l>Do-Baccho cur non rectius ille ſolet.</l>
+                  </q>
+which may be thus Engliſhed;
+<q>
+                     <l>Tobacco ſhould be cal'd Do-Baccho rather,</l>
+                     <l>As by the uſe thereof wee well may gather,</l>
+                     <l>Do-Baccho ſignifies, I give thee wine,</l>
+                     <l>Which with that hearbe makes many ſup and dine</l>
+                  </q>
+               </p>
+               <p>
+                  <hi>(d) A man half learned is a moſt peſtilent creature. Pr.</hi>
+               </p>
+               <p>
+                  <hi>(e)</hi> In the booke of the holy Fathers, there is ſcarce a leafe, wherein the Biſhops, Presbyters,
+<pb facs="tcp:155662:8"/>and Deacons, with other Orders, and alſo Prieſts (which name ſome do greatly deteſt) are not na<g ref="char:EOLhyphen"/>med with honor.</p>
+               <p>
+                  <hi>(f)</hi> He that hath a head round like a Globe or bowle, is defective in his ſence and reaſon, <hi>Alſted. Encycl.</hi> publiſhed in <hi>fol.</hi> 773. and thereof our ſimple Sectaries may be properly called <hi>Browniſts.</hi>
+               </p>
+               <p>
+                  <hi>(g) Gallen</hi> ſaid, he would give <hi>Momus</hi> 100 years to change the ſtructure of mans body, even in the leaſt part, and doubted not but he ſhould be forced in the end to confeſſe, that it could be made in none other, or a more perfect man. The ſame I ſay to thoſe that cavil againſt the <hi>Engliſh</hi> Liturgy.</p>
+               <p>
+                  <hi>(h)</hi> In all Services, the Lords Prayer is ſayd; for than is the ſalt and ſeaſoning of the Sacrifice, <hi>Durand. rational. lib.</hi> 1. <hi>cap.</hi> 5. <hi>numb.</hi> 17.</p>
+               <p>
+                  <hi>(i)</hi> Thoſe of our Country (to omit Forreigne Nations) unanimouſly maintain, that the bowing of the knee to the holy Euchariſt, is very proper. Bp. <hi>Winch. Conc. p.</hi> 991. Bp. <hi>Norw. tom.</hi> 1. <hi>p.</hi> 560. <hi>D. Boyſ. poſtil. p.</hi> 598. <hi>D. Don.</hi> in <hi>Conc. p.</hi> 115. <hi>D. Featl.</hi> in <hi>Conc. p.</hi> 393. <hi>D. Clark.</hi> in <hi>Conc. p.</hi> 264. <hi>D. Saunder.</hi> in <hi>Conc. p.</hi> 631. <hi>Kellet</hi> in his <hi>Tricaen. Chriſti p.</hi> 203.567.581.582.638.645.653.</p>
+               <p>
+                  <hi>Sutores crepidam, tractent, fabrilia fabri.</hi> that is,</p>
+               <q>
+                  <l>Let Sowters meddle with the Laſt or Shoe,</l>
+                  <l>Smiths in their Art with what they have to do.</l>
+               </q>
+               <p>
+                  <hi>(l)</hi> There are in heaven moſt honorable Crowns of dignity, either white, for Virginity, or purple, for Suffering, or lawrell, for Learning; S. <hi>Aug.</hi>
+               </p>
+               <p>
+                  <hi>(m. n)</hi> It is a wonder, if they were mules; and
+<pb facs="tcp:155662:8"/>many of one and the ſame time with us, not of ſo great name, are far better ſighted than <hi>Argus.</hi>
+               </p>
+               <p>
+                  <hi>(o)</hi> Our late Soveraign Lord K. <hi>James</hi> of famous memory, overthrew the Innovators Rams, <hi>Anno</hi> 1604. for at that time the Church of <hi>England</hi> had moſt acceptable Halcionian dayes.</p>
+               <p>
+                  <hi>(p)</hi> Amongſt ſo great men, Mr. <hi>Hooker</hi> (a man of a moſt unreproveable judgement) in <hi>Polititia Ecle.</hi> gives moſt unreproveable Arguments.</p>
+               <p>
+                  <hi>(q)</hi> The objections of ſuch trifles, blinde <hi>Fiſher</hi> (but in the holy Bible, ſharp-ey'd enough) doth ſtrongly confute defence of the Liturgy, written in Engliſh.</p>
+               <p>
+                  <hi>(r)</hi> If our Biſhops have committed any fault, they are men and may erre; ſometimes good <hi>Homer</hi> ſlumbered, and ſometimes holy <hi>Peter</hi> ſlept, who was the firſt, not the chiefe of the Apoſtles. <hi>Con<g ref="char:EOLhyphen"/>ſtantine</hi> the Great piouſly ſayd, That he would cover the crimes of his Prieſts with his Purple; a ſaying worthy to be written in gold on Cedar.</p>
+               <p>
+                  <hi>(ſ)</hi> No man ſees how the Cavaliers now a dayes bring into diſpleaſure, and hurry into contention, and how much they move (I ſpeak not of writings but of deeds) every where of ſtrifes and calum<g ref="char:EOLhyphen"/>nies for every ſmall trifle.</p>
+               <p>
+                  <hi>(t)</hi> See the Apology of the B. of <hi>Norwich,</hi> (whom ſome do call the chriſtian <hi>Seneca,</hi> I <hi>Englands Chry<g ref="char:EOLhyphen"/>ſoſtome</hi>) againſt Browniſts; Alſo <hi>Camd. Annals.</hi> Q. <hi>Eliz.</hi> in Engliſh <hi>pag.</hi> 257. and 403.</p>
+               <p>
+                  <hi>(u) De la champ.</hi> in the Prayer of <hi>David.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
